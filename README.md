@@ -1,16 +1,13 @@
 
 <div>
-
   <img width="200" align="right" src="https://media.discordapp.net/attachments/1217271372573839463/1234197323144364103/avatar_1.png?ex=662fdb54&is=662e89d4&hm=46a24bde811056315140e8027c51239040bcf69e66900b09a243e8db933ab689&=&format=webp&quality=lossless&width=285&height=655" alt="avatar2">
   <h1 align="left">Mayara Saraiva</h1>
   <a href="https://instagram.com/mayasaraiva" target="_blank"><img width="80" height="80" src="https://img.icons8.com/clouds/100/instagram.png" alt="instagram" target="_blank"/>
   <a href="https://www.linkedin.com/in/mayara-saraivaa" target="_blank"><img width="80" height="80" src="https://img.icons8.com/clouds/100/linkedin.png" alt="linkedin" target="_blank"/>
 </div>
     <div>
-      <p>
-        Tenho 32 anos, moro em São Leopoldo/RS e sou apaixonada por programação e carros🚘🏎️! Não fico sem café ☕.
-        Estou cursando Analises e Desenvolvimento de Sistemas, já sou formada em Ciências Contábeis, mas o mundo da tecnologia tem meu coração 🩵.
-      </p>  
+      <p>Tenho 32 anos, moro em São Leopoldo/RS e sou apaixonada por programação e carros🚘🏎️! Não fico sem café ☕.</p>
+      <p>Estou cursando Analises e Desenvolvimento de Sistemas, já sou formada em Ciências Contábeis, mas o mundo da tecnologia tem meu coração 🩵.</p>  
     </div>
 </br>
 
@@ -26,6 +23,9 @@
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="POSTGRESQL"/>
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" title="VISUALSTUDIO"/>
 </div>
+</br>
+</br>
+</br>
 </br>
 </br>
 </br>
