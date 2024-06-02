@@ -1,6 +1,6 @@
 
 <div>
-  <img width="200" align="right" src="https://media.discordapp.net/attachments/1217271372573839463/1234197323144364103/avatar_1.png?ex=662fdb54&is=662e89d4&hm=46a24bde811056315140e8027c51239040bcf69e66900b09a243e8db933ab689&=&format=webp&quality=lossless&width=285&height=655" alt="avatar2">
+  <img width="200" align="right" src="https://media.discordapp.net/attachments/1217271372573839463/1234197323144364103/avatar_1.png?ex=665d5714&is=665c0594&hm=382d04638c0e581c1dcfbc1054866fea4104b4d136784ae26159e265d353a59b&=&format=webp&quality=lossless&width=277&height=637" alt="avatar2">
   <h1 align="left">Mayara Saraiva</h1>
   <a href="https://instagram.com/mayasaraiva" target="_blank"><img width="80" height="80" src="https://img.icons8.com/clouds/100/instagram.png" alt="instagram" target="_blank"/>
   <a href="https://www.linkedin.com/in/mayara-saraivaa" target="_blank"><img width="80" height="80" src="https://img.icons8.com/clouds/100/linkedin.png" alt="linkedin" target="_blank"/>
