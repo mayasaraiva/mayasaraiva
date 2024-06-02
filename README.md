@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/mayara-saraivaa" target="_blank"><img width="80" height="80" src="https://img.icons8.com/clouds/100/linkedin.png" alt="linkedin" target="_blank"/>
 </div>
     <div>
-      <p>Tenho 32 anos, moro em São Leopoldo/RS e sou apaixonada por programação e carros🚘🏎️! Não fico sem café ☕.</p>
+      <p>Tenho 33 anos, moro em São Leopoldo/RS e sou apaixonada por programação e carros🚘🏎️! Não fico sem café ☕.</p>
       <p>Estou cursando Analises e Desenvolvimento de Sistemas, já sou formada em Ciências Contábeis, mas o mundo da tecnologia tem meu coração 🩵.</p>  
     </div>
 </br>
